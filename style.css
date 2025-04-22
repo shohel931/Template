@@ -4,9 +4,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 #header_area{
-    background: #FBF8CC;
+    background: #fff;
     padding: 10px 0;
-    /* box-shadow: 1px 1px 5px #ccc; */
+    box-shadow: 1px 1px 5px #ccc;
     position: fixed;
     width: 100%;
     z-index: 1000;
